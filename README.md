@@ -2,7 +2,7 @@
 Perceptive, quick learner, independent worker, motivated, team player. 
 
 - 👀 I’m interested in enrich my knowledge in different and broad horizons, and wait for the next challenge.
-- 🌱 I’m currently finishing my finall project: ""
+- 🌱 I’m currently finishing my finall project: "LifeSaver"
 - 💞️ I’m looking to collaborate on FullStack development, and 
 
 <!---
